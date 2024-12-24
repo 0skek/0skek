@@ -11,7 +11,7 @@
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0skek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=0skek&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0skek&theme=dark&hide_border=false" alt="GitHub Streak" />
+  
 </div>
 
 
@@ -20,5 +20,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0skek&icon=0&color=9)](https://visitcount.itsvg.in)
+<div style="text-align: center;">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=0skek&icon=0&color=9" alt="Visit Count" />
+  </a>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0skek&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
 
